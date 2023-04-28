@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Sequence2</string>
+    <string name="app_name">MeteoProvider</string>
+    <string name="temperature">Température</string>
+    <string name="humidity">Humidité</string>
+    <string name="windSpeed">Vitesse du vent</string>
+    <string name="windDirection">Direction du vent</string>
+    <string name="precipitation">Précipitations</string>
+
+
 </resources>
